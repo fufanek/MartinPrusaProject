@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EvidencePojisteniMartinPrusa/1.0.0": {
+        "runtime": {
+          "EvidencePojisteniMartinPrusa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EvidencePojisteniMartinPrusa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
